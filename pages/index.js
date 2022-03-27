@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          hello khbkjkh<code>pages/index.js</code>
+          hello welcome<code>pages/index.js</code>
         </p>
       </main>
 
